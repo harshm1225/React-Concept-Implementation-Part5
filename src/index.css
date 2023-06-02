@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+@media (max-width:612px) {
+  html{
+    font-size: 12px;
+  }
+}
+@media (max-width:394px){
+  html{
+    font-size:9px;
+  }
+}
+@media (max-width:292px){
+  html{
+    font-size: 7px;
+  }
+}
+@media (max-width:231px){
+  html{
+    font-size: 5px;
+  }
+}
